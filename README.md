@@ -1,4 +1,4 @@
-# VulnPriority
+# VulnSight
 
 **Risk-Based Vulnerability Prioritization Platform**
 
